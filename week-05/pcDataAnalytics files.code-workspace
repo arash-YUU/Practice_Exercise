@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Practice_Exercise",
+			"path": "../Practice_Exercise"
+		},
+		{
+			"name": "data-analytics",
+			"path": "../data-analytics"
+		}
+	],
+	"settings": {}
+}
