@@ -1,7 +1,6 @@
 # Name: Arash
 # Date: 11-16-2026
-# Description: Income tax calculator
-
+# Description: Calculates estimated income tax based on annual income and number of dependents.
 
 TAX_RATE = 0.20
 STANDARD_DEDUCTION = 10000
